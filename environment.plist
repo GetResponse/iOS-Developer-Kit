@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>test_campaign_id</key>
+	<string>TEST_CAMPAIGN_ID_HERE</string>
+	<key>test_contact_id</key>
+	<string>TEST_CONTACT_ID_HERE</string>
+	<key>test_contact_email</key>
+	<string>TEST_CONTACT_EMAIL_HERE</string>
+	<key>contact_name_format</key>
+	<string>TEST_CONTACT_NAME_FORMAT_HERE</string>
+	<key>contact_email_format</key>
+	<string>TEST_CONTACT_EMAIL_FORMAT_HERE</string>
+	<key>test_campaign_name</key>
+	<string>TEST_CONTACT_NAME</string>
+	<key>api_key</key>
+	<string>TEST_API_KEY_HERE</string>
+</dict>
+</plist>
