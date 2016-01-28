@@ -1,4 +1,3 @@
-<img src="docs/gr_logo.png" width="50%" height="50%"/>
 # GetResponseAPI iOS SDK
 ![CocoaPods](https://img.shields.io/cocoapods/v/GetResponseAPI.svg) ![license](https://img.shields.io/cocoapods/l/GetResponseAPI.svg) ![Platform](https://img.shields.io/cocoapods/p/GetResponseAPI.svg)
 
